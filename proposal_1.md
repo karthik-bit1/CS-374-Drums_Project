@@ -1,6 +1,6 @@
 ---
 layout: pages
-Title: Design_Report
+Title: Proposal 1
 permalink: /proposal_1/
 ---
 # CS-374-Drums-Sound
